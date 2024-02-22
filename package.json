@@ -1,0 +1,25 @@
+{
+  "name": "henlo-tea",
+  "version": "1.0.0",
+  "description": "henlo tea ",
+  "main": "hello-tea.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dickifatma/henlo-tea.git"
+  },
+  "keywords": [
+    "tea",
+    "henlo",
+    "hello",
+    "worlds"
+  ],
+  "author": "dickifatma",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dickifatma/henlo-tea/issues"
+  },
+  "homepage": "https://github.com/dickifatma/henlo-tea#readme"
+}
