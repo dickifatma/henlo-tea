@@ -1,6 +1,6 @@
 {
   "name": "henlo-tea",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "henlo tea ",
   "main": "hello-tea.js",
   "scripts": {
